@@ -1,7 +1,7 @@
 ![logo](https://github.com/Arnab00369/Arnab00369/blob/main/Header.gif)
 <h1 align="center">Hi 👋, I'm Arnab Jana</h1>
 <h3 align="center">A passionate Software and Frontend Developer</h3>
-<img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="50px" width="60px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab00369&label=Profile%20views&color=0e75b6&style=flat" alt="arnab00369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab00369" alt="arnab00369" /></a> </p>
