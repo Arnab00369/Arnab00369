@@ -11,10 +11,10 @@
 - 📫 How to reach me **arnab003jn.369@gmail.com**
 
 - ⚡ Fun fact **Do you know why Java Developers use Specs?? Because they can't C!!**
-
+ <img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="200px" width="250px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="200px" width="250px">
+ 
 <a href="https://linkedin.com/in/www.linkedin.com/in/arnabjana369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arnabjana369" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23046205/arnab-jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23046205/arnab-jana" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/arnabjana003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arnabjana003" height="30" width="40" /></a>
