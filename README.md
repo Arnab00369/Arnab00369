@@ -1,7 +1,7 @@
 ![logo](https://github.com/Arnab00369/Arnab00369/blob/main/Header.gif)
 <h1 align="center">Hi 👋, I'm Arnab Jana</h1>
 <h3 align="center">A passionate Software and Frontend Developer</h3>
-<img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="200px" width="250px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab00369&label=Profile%20views&color=0e75b6&style=flat" alt="arnab00369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab00369" alt="arnab00369" /></a> </p>
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="200px" width="250px">
 <a href="https://linkedin.com/in/www.linkedin.com/in/arnabjana369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arnabjana369" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23046205/arnab-jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23046205/arnab-jana" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/arnabjana003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arnabjana003" height="30" width="40" /></a>
