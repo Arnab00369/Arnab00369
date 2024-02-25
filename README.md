@@ -11,7 +11,7 @@
 - 📫 How to reach me **arnab003jn.369@gmail.com**
 
 - ⚡ Fun fact **Do you know why Java Developers use Specs?? Because they can't C!!**
- <img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="200px" width="250px">
+ <img align="right" alt="programming" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="300px" width="350px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
