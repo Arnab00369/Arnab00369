@@ -1,4 +1,4 @@
-![logo](https://github.com/Arnab00369/Arnab00369/blob/main/Purple%20animated%20tech%20festival%20promo%20instagram%20post.gif)
+![logo](https://github.com/Arnab00369/Arnab00369/blob/main/Header.png)
 <h1 align="center">Hi 👋, I'm Arnab Jana</h1>
 <h3 align="center">A passionate Software and Frontend Developer</h3>
 <img align = "right"  alt="programming" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
