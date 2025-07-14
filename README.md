@@ -15,6 +15,13 @@ Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or A
 [![](https://visitcount.itsvg.in/api?id=Arnab00369&icon=1&color=4)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab00369&label=Profile%20views&color=0e75b6&style=flat" alt="arnab00369" /> </p>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 -⚡ **Fun fact:** Do you know why Java Developers wear Specs? Because, they can't C!!
 - **Help me Grow and Expand by Starring, Sharing and Forking my Repositories**
 
@@ -49,5 +56,6 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arnab00369&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
