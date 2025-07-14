@@ -10,17 +10,19 @@ Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Technology Trends, Learning Resources, or Getting Started in Tech
 - 📫 **How to reach me:** arnab003jn.369@gmail.com
 - 🔖 **Pronouns:** He/him
-- ⚡ **Fun fact:** Do you know why Java Developers wear Specs? Because, they can't C!!
 
 ## 💡 I’m a dedicated learner with a passion for coding and continuous growth. Always eager to explore, build, and contribute. 😊
-
-<h2 style="border: none; border-bottom: none; margin-bottom: 0;">Brief about myself:
-  <h3 align="center"><br>💻 I'm a passionate Computer Science graduate with a curious mind and a love for tech that just won't sit still.
-<br>From designing web interfaces to diving deep into data, I’m exploring the vast world of Web Development, mastering programming languages and technologies, and stepping into the fascinating realms of Machine Learning and Data Science.<br>
-I don't just write code — I solve puzzles, build things from scratch, and break them (gently 😄) just to see how they work. For me, every bug is a clue, every commit a milestone.</h3></h2>
-
 [![](https://visitcount.itsvg.in/api?id=Arnab00369&icon=1&color=4)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab00369&label=Profile%20views&color=0e75b6&style=flat" alt="arnab00369" /> </p>
+
+-⚡ **Fun fact:** Do you know why Java Developers wear Specs? Because, they can't C!!
+- **Help me Grow and Expand by Starring, Sharing and Forking my Repositories**
+
+<h2>Brief about myself:</h2>
+  <h3 align="center"><br>💻 I'm a passionate Computer Science graduate with a curious mind and a love for tech that just won't sit still.
+From designing web interfaces to diving deep into data, I’m exploring the vast world of Web Development, mastering programming languages and technologies, and stepping into the fascinating realms of Machine Learning and Data Science.<br>
+<br>I don't just write code — I solve puzzles, build things from scratch, and break them (gently 😄) just to see how they work. For me, every bug is a clue, every commit a milestone.</h3>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/.albertaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/its_arnab_003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arnabjana369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/arnabj830/_profile/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Arnab-Jana-115) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://reddit.com/user/https://www.reddit.com/u/MoodDisastrous64/s/nONniJYiI6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23046205/arnab-jana?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Arnab82998422?t=pe_LVizQdH6EUwbGQ57ATw&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnab003jn.369@gmail.com)
