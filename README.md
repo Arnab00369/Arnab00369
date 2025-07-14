@@ -27,7 +27,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arnab00369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
