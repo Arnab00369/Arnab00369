@@ -2,14 +2,16 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
   update-readme:
+    name: Update WakaTime Stats in README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@v0.1.3
+      - uses: athul/waka-readme@v1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 5
