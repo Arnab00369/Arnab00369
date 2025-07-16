@@ -68,3 +68,15 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+## 📆 GitHub Contributions Calendar
+
+## Full Year Calendar:
+
+![Metrics](./metrics.plugin.isocalendar.fullyear.svg)
+
+## Half Year Calendar:
+
+![Metrics](./metrics.plugin.isocalendar.svg)
+
