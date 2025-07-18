@@ -1,4 +1,4 @@
-name: GitHub Contribution Metrics
+name: Waka Metrics
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: works_types.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_isocalendar: yes
