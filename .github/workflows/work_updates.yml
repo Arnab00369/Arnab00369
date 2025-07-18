@@ -1,18 +1,26 @@
-name: Waka Readme Stats
+name: GitHub Contribution Metrics
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # Allow manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update WakaTime Stats in README
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: athul/waka-readme@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 5
-          TIME_RANGE: last_7_days
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html
+          plugin_languages_threshold: 2%
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_limit: 5
+          config_timezone: Asia/Calcutta
