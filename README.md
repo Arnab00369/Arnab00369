@@ -144,6 +144,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 ![Metrics](./metrics.plugin.isocalendar.fullyear.svg)
 
+
 ## Half Year Calendar:
 
 ![Metrics](./metrics.plugin.isocalendar.svg)
