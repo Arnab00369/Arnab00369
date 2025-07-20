@@ -71,8 +71,6 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 
 > 📦 27.5 kB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -142,7 +140,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2025 18:48:50 UTC
+ Last Updated on 20/07/2025 18:50:45 UTC
 <!--END_SECTION:waka-->
 
 
