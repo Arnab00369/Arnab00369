@@ -63,13 +63,15 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-284-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 33.3 kB Used in GitHub's Storage 
  > 
-> 🏆 155 Contributions in the Year 2025
+> 🏆 175 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,6 +79,52 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                45 commits          █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌆 Daytime                80 commits          █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌃 Evening                104 commits         ███████████░░░░░░░░░░░░░░   45.02 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   65 commits          ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Tuesday                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Friday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Saturday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Sunday                   69 commits          ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    5 hrs 24 mins       ████████████████████░░░░░   79.21 % 
+Python                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+SVG                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
+🔥 Editors: 
+Chrome                   5 hrs 32 mins       ████████████████████░░░░░   81.29 % 
+VS Code                  1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+
+🐱‍💻 Projects: 
+Mongoose_Practice        2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+DATA_SCIENCE_WITH_PYTHON_2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Arnab00369               1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+MONGOOSE_PRACTICE_JS     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+💻 Operating System: 
+Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -94,7 +142,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 15:47:51 UTC
+ Last Updated on 21/07/2025 15:50:03 UTC
 <!--END_SECTION:waka-->
 
 
