@@ -63,9 +63,9 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-284-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-306-blue)
 
 **🐱 My GitHub Data** 
 
@@ -142,7 +142,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 15:50:03 UTC
+ Last Updated on 21/07/2025 18:55:39 UTC
 <!--END_SECTION:waka-->
 
 
