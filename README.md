@@ -141,7 +141,15 @@ Java                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/434692f0-d7a7-4d26-939e-c847bb60e6d9.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/21e761f5-acd1-4971-beb5-d0ac44b60993.png" /></a>
+
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/02d4b8c8-da8a-4bc7-ab77-0b561e1d1390.png" /></a>
+
+
 
 
  Last Updated on 23/07/2025 07:27:16 UTC
