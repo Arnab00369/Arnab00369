@@ -17,11 +17,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           SHOW_TIME: true
+          LANG_COUNT: 8
           SHOW_TOTAL: true
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
+          PROJECT_COUNT: 5
           SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
