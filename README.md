@@ -139,7 +139,19 @@ Java                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
+<h2 align="center">📊 Weekly Coding Activity</h2>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/a9bb05da-0e8f-48c7-8a70-8d0c9e004676.svg" alt="WakaTime Weekly Stats">
+</p>
+
+
+<h2 align="center">⏱️ Coding Stats</h2>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/fed51081-932b-4657-b920-e6137290e51c.svg" alt="WakaTime Stats">
+</p>
+
 
 
  Last Updated on 23/07/2025 18:54:41 UTC
