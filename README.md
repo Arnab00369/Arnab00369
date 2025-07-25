@@ -141,7 +141,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
+
 
 
  Last Updated on 24/07/2025 18:55:03 UTC
