@@ -144,7 +144,9 @@ Java                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 27/07/2025 18:53:09 UTC
 <!--END_SECTION:waka-->
-
+<img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/16ff80e1-1247-41f6-9c33-d46fdba0b4fd.svg" alt="WakaTime Chart" width="100%">
+<img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/6187b720-3fa7-4efc-9ebc-d6f48dfa7c3a.svg" alt="WakaTime Coding Activity Chart" width="100%">
+  
 
 ## 📆 GitHub Contributions Calendar
 
