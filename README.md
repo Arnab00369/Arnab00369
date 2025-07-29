@@ -176,10 +176,6 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 **Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
-
-
  Last Updated on 28/07/2025 18:56:27 UTC
 <!--END_SECTION:waka-->
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/16ff80e1-1247-41f6-9c33-d46fdba0b4fd.svg" alt="WakaTime Chart" width="100%">
