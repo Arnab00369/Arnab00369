@@ -69,12 +69,16 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arnab00369&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### ✍️ Favourite Quote:
 ![](https://www.codecademy.com/resources/blog/wp-content/uploads/2024/01/Chris-Pine-quote.png?resize=1536,864)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 📚 Top Contributed Repositories
 
 <p align="left">
