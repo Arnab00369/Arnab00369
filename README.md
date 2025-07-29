@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&lines=💫+Hi+%F0%9F%91%8B%2C+I'm+Arnab+Jana+;💡+Aspiring+Software+Engineer+%F0%9F%9A%80;🚀+Java+Developer+in+making%F0%9F%92%BB;Coding+and+Programming+Enthusiast+%F0%9F%8F%86;Final-year+B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
-
+<img src="assets/Development.gif" width="1000">
 Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
