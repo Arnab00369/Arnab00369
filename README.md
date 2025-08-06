@@ -20,8 +20,7 @@ Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or A
 ## 💡 I’m a dedicated learner with a passion for coding and continuous growth. Always eager to explore, build, and contribute. 😊
 <p align="center">  
   
-![Profile views](https://komarev.com/ghpvc/?username=Arnab00369&label=Profile%20views&color=blueviolet&style=for-the-badge)  
-  <img src="https://img.shields.io/github/followers/Arnab00369?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+![Profile views](https://komarev.com/ghpvc/?username=Arnab00369&label=Profile%20views&color=blueviolet&style=for-the-badge)  <img src="https://img.shields.io/github/followers/Arnab00369?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Arnab00369?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </p>
 
