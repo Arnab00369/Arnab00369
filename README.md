@@ -139,6 +139,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Arnab00369&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
