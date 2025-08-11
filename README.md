@@ -169,11 +169,13 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 431 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -238,7 +240,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2025 18:50:20 UTC
+ Last Updated on 11/08/2025 18:55:23 UTC
 <!--END_SECTION:waka-->
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/16ff80e1-1247-41f6-9c33-d46fdba0b4fd.svg" alt="WakaTime Chart" width="100%">
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/6187b720-3fa7-4efc-9ebc-d6f48dfa7c3a.svg" alt="WakaTime Coding Activity Chart" width="100%">
