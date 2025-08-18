@@ -169,13 +169,11 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 38.7 kB Used in GitHub's Storage 
- > 
-> 🏆 436 Contributions in the Year 2025
+> 📦 38.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -186,21 +184,21 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌆 Daytime                142 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌃 Evening                269 commits         ██████████████░░░░░░░░░░░   54.79 % 
+🌞 Morning                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+🌆 Daytime                142 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌃 Evening                269 commits         ██████████████░░░░░░░░░░░   54.56 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Wednesday                65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Thursday                 53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Sunday                   137 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+Monday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Thursday                 53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Saturday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Sunday                   138 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
 ```
 
 
@@ -243,7 +241,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:48:53 UTC
+ Last Updated on 18/08/2025 18:54:02 UTC
 <!--END_SECTION:waka-->
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/16ff80e1-1247-41f6-9c33-d46fdba0b4fd.svg" alt="WakaTime Chart" width="100%">
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/6187b720-3fa7-4efc-9ebc-d6f48dfa7c3a.svg" alt="WakaTime Coding Activity Chart" width="100%">
