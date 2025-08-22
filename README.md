@@ -163,10 +163,12 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 [![](https://visitcount.itsvg.in/api?id=Arnab00369&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
@@ -241,7 +243,9 @@ Java                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 21/08/2025 18:49:17 UTC
 <!--END_SECTION:waka-->
+
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/16ff80e1-1247-41f6-9c33-d46fdba0b4fd.svg" alt="WakaTime Chart" width="100%">
+
 <img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/6187b720-3fa7-4efc-9ebc-d6f48dfa7c3a.svg" alt="WakaTime Coding Activity Chart" width="100%">
   
 
