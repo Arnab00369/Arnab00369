@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&duration=2800&pause=2000&color=Amber&center=true&vCenter=true&width=940&lines=💫+Hi+%F0%9F%91%8B%2C+I'm+Arnab+Jana+;💡+Aspiring+Software+Engineer+%F0%9F%9A%80;🚀+Java+Developer+in+making%F0%9F%92%BB;Coding+and+Programming+Enthusiast+%F0%9F%8F%86;Final-year+B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
-<div><img src="assets/Development.gif" width="1000"></div>
+<div><img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="1000"></div>
 
 Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
