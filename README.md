@@ -31,7 +31,6 @@ Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or A
 -⚡ **Fun fact:** Do you know why Java Developers wear Specs? Because, they can't C!!
 - **Help me Grow and Expand by Starring, Sharing and Forking my Repositories**
 
-
 <h2>Brief about myself:</h2>
   <h3 align="center"><br>💻 I'm a passionate Computer Science graduate with a curious mind and a love for tech that just won't sit still.
 From designing web interfaces to diving deep into data, I’m exploring the vast world of Web Development, mastering programming languages and technologies, and stepping into the fascinating realms of Machine Learning and Data Science.<br>
