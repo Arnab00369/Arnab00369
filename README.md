@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&duration=2800&pause=2000&color=001E1E&center=true&vCenter=true&width=940&lines=💫+Hi+%F0%9F%91%8B%2C+I'm+Arnab+Jana+;💡+Aspiring+Software+Engineer+%F0%9F%9A%80;🚀+Java+Developer+in+making%F0%9F%92%BB;Coding+and+Programming+Enthusiast+%F0%9F%8F%86;Final-year+B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 <div><img src="https://miro.medium.com/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="900"></div>
-Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 [![An image of @arnab00369's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnab00369)](https://holopin.io/@arnab00369)
@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **arnab003jn.369@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Hackathons, Team Projects, and Open-source contributions
 - 🤔 **I’m looking for help with:** Real-world project ideas, innovations and guidance
 - 💬 **Ask me about:** Technology Trends, Learning Resources, or Getting Started in Tech
-- 📫 **How to reach me:** arnab003jn.369@gmail.com
+
 
 ## 💡 I’m a dedicated learner with a passion for coding and continuous growth. Always eager to explore, build, and contribute. 😊
 <p align="center">  
