@@ -49,7 +49,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://x.com/Arnab82998422?t=pe_LVizQdH6EUwbGQ57ATw&s=09">
         <img src="assets/Twitter_X.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
@@ -60,14 +60,14 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
         <img src="https://media.lordicon.com/icons/wired/flat/2566-logo-discord.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="mailto:arnab003jn.369@gmail.com">
         <img src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://www.instagram.com/its_arnab_003">
         <img src="https://media.lordicon.com/icons/wired/lineal/2542-logo-instagram.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
@@ -78,7 +78,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
         <img src="https://media.lordicon.com/icons/wired/flat/2545-logo-pinterest.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://stackoverflow.com/users/23046205/arnab-jana">
         <img src="https://media.lordicon.com/icons/wired/lineal/2567-logo-stack-overflow.gif" 
