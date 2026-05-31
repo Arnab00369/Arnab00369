@@ -16,10 +16,10 @@
 
 ## 💡 I’m a dedicated learner with a passion for coding and continuous growth. Always eager to explore, build, and contribute. 😊
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=Arnab00369&label=Profile%20views&color=green&style=for-the-badge" alt="profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arnab00369.Arnab00369&left_color=blue&right_color=green&style=for-the-badge" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/Arnab00369?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Arnab00369?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=ArnabJanaCSEResearcher&label=Profile%20views&color=green&style=for-the-badge" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArnabJanaCSEResearcher.ArnabJanaCSEResearcher&left_color=blue&right_color=green&style=for-the-badge" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/ArnabJanaCSEResearcher?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ArnabJanaCSEResearcher?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -67,12 +67,12 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
     </td>
-    <!-- <td>
+    <!-- <!-- <td>
       <a href="https://www.instagram.com/its_arnab_003">
         <img src="https://media.lordicon.com/icons/wired/lineal/2542-logo-instagram.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://in.pinterest.com/arnabj830/_profile/">
         <img src="https://media.lordicon.com/icons/wired/flat/2545-logo-pinterest.gif" 
