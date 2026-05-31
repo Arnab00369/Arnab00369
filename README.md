@@ -44,7 +44,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 <table align="center">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/arnabjana369/">
+      <a href="https://www.linkedin.com/in/ArnabJanaCSE/">
         <img src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
@@ -67,12 +67,12 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
     </td>
-    <!-- <!-- <td>
+    <!-- <td>
       <a href="https://www.instagram.com/its_arnab_003">
         <img src="https://media.lordicon.com/icons/wired/lineal/2542-logo-instagram.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
       </a>
-    </td> -->
+    </td>
     <td>
       <a href="https://in.pinterest.com/arnabj830/_profile/">
         <img src="https://media.lordicon.com/icons/wired/flat/2545-logo-pinterest.gif" 
@@ -112,21 +112,21 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 <tr border="none">
 <td width="50%" align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Arnab00369&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=ArnabJanaCSEResearcher&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
   
   <br><br>
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=Arnab00369&theme=default&hide_border=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=ArnabJanaCSEResearcher&theme=default&hide_border=false)<br/>
   
 </td>
 
 <td width="50%" align="center">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab00369&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabJanaCSEResearcher&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   <br><br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arnab00369&theme=default&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnabJanaCSEResearcher&theme=default&utcOffset=8" />
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Arnab00369&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ArnabJanaCSEResearcher&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -147,11 +147,11 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 ## 📚 Top Contributed Repositories
 
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Arnab00369&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Repositories by Arnab00369" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ArnabJanaCSEResearcher&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Repositories by Arnab00369" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab00369&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnabJanaCSEResearcher&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" />
 </div>
 
 
@@ -241,7 +241,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/Arnab00369/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/ArnabJanaCSEResearcher/main/assets/bar_graph.png)
 
 
  Last Updated on 15/09/2025 18:48:45 UTC
