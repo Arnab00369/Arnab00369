@@ -147,7 +147,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
 ## 📚 Top Contributed Repositories
 
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ArnabJanaCSEResearcher&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Repositories by Arnab00369" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ArnabJanaCSEResearcher&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Repositories by ArnabJanaCSEResearcher" />
 </p>
 
 <div align="center">
