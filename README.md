@@ -238,8 +238,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
+<!-- 
+  **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/ArnabJanaCSEResearcher/main/assets/bar_graph.png)
 
@@ -264,3 +264,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ## Half Year Calendar:
 
 ![Metrics](./metrics.plugin.isocalendar.svg)
+-->
+
+
