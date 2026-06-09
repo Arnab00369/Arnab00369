@@ -238,9 +238,3 @@ CSS                      1 repo              █░░░░░░░░░░�
 ```
 
 
-## Half Year Calendar:
-
-![Metrics](./metrics.plugin.isocalendar.svg)
--->
-
-
