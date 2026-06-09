@@ -238,29 +238,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ```
 
 
-<!-- 
-  **Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Arnab00369/ArnabJanaCSEResearcher/main/assets/bar_graph.png)
-
-
- Last Updated on 15/09/2025 18:48:45 UTC
-<!--END_SECTION:waka-->
-
-<img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/16ff80e1-1247-41f6-9c33-d46fdba0b4fd.svg" alt="WakaTime Chart" width="100%">
-
-<img src="https://wakatime.com/share/@d318b648-7e5e-4ca0-a978-6bf84392a5a4/6187b720-3fa7-4efc-9ebc-d6f48dfa7c3a.svg" alt="WakaTime Coding Activity Chart" width="100%">
-  
-
-## 📆 GitHub Contributions Calendar
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## Full Year Calendar:
-
-![Metrics](./metrics.plugin.isocalendar.fullyear.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## Half Year Calendar:
 
 ![Metrics](./metrics.plugin.isocalendar.svg)
