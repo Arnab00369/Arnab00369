@@ -56,6 +56,7 @@ From designing web interfaces to diving deep into data, I’m exploring the vast
       </a>
     </td>
     <td>
+    
       <a href="https://discord.gg/.albertaj">
         <img src="https://media.lordicon.com/icons/wired/flat/2566-logo-discord.gif" 
              style="width:70px;height:70px;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.15);margin:5px;">
